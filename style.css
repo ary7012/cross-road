@@ -56,7 +56,7 @@ button {
 }
 #player{
   position: absolute;
-  bottom: 00px;
+  bottom: 80px;
   right: 50px;
-  color: purple;
+  color: blue;
 }
